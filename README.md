@@ -24,4 +24,4 @@
 
 ## 项目编译问题
 
-- 项目使用QT5.10进行编译，若不会编译但想体验游戏的玩家可以在release中下载编译好的游戏进行体验
+- 项目使用QT5.10进行编译，若不会编译但想体验游戏的玩家可以在[release](https://github.com/Yubiao-Li/PlayNow/releases)中下载编译好的游戏进行体验
